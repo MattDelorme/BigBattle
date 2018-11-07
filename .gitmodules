@@ -1,0 +1,6 @@
+[submodule "Assets/Source/D20"]
+	path = Assets/Source/D20
+	url = https://github.com/MattDelorme/D20
+[submodule "Assets/Source/Shared"]
+	path = Assets/Source/Shared
+	url = https://github.com/MattDelorme/Shared
